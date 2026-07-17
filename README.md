@@ -44,6 +44,7 @@ CODING-TEST-KCW-JAVA/
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/chanwookK/CODING-TEST/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1462-course-schedule-iv](https://github.com/chanwookK/CODING-TEST/tree/master/1462-course-schedule-iv) |
 ## Shortest Path
 |  |
 | ------- |
@@ -56,4 +57,16 @@ CODING-TEST-KCW-JAVA/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chanwookK/CODING-TEST/tree/master/0001-two-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [1462-course-schedule-iv](https://github.com/chanwookK/CODING-TEST/tree/master/1462-course-schedule-iv) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1462-course-schedule-iv](https://github.com/chanwookK/CODING-TEST/tree/master/1462-course-schedule-iv) |
+## Topological Sort
+|  |
+| ------- |
+| [1462-course-schedule-iv](https://github.com/chanwookK/CODING-TEST/tree/master/1462-course-schedule-iv) |
 <!---LeetCode Topics End-->
