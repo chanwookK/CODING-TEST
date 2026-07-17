@@ -15,7 +15,7 @@ class Solution {
         }
 
         floydWarshall();
-        List<Boolean> answer = new ArrayList<>();
+        List<Boolean> answer = new LinkedList<>();
         for (int[] query : queries) {
             if (reachable[query[0]][query[1]]) answer.add(true);
             else answer.add(false);
