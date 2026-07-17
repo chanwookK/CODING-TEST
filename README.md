@@ -45,14 +45,17 @@ CODING-TEST-KCW-JAVA/
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/chanwookK/CODING-TEST/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/chanwookK/CODING-TEST/tree/master/1462-course-schedule-iv) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/chanwookK/CODING-TEST/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/chanwookK/CODING-TEST/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/chanwookK/CODING-TEST/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chanwookK/CODING-TEST/tree/master/0001-two-sum) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/chanwookK/CODING-TEST/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,4 +72,8 @@ CODING-TEST-KCW-JAVA/
 |  |
 | ------- |
 | [1462-course-schedule-iv](https://github.com/chanwookK/CODING-TEST/tree/master/1462-course-schedule-iv) |
+## String
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/chanwookK/CODING-TEST/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
