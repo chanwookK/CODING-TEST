@@ -48,4 +48,12 @@ CODING-TEST-KCW-JAVA/
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/chanwookK/CODING-TEST/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/chanwookK/CODING-TEST/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/chanwookK/CODING-TEST/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
