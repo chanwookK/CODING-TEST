@@ -33,3 +33,19 @@ CODING-TEST-KCW-JAVA/
 - [Baekjoon Online Judge](https://www.acmicpc.net/)
 - [solved.ac](https://solved.ac/)
 - [바킹독 문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Dynamic Programming
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/chanwookK/CODING-TEST/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Graph Theory
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/chanwookK/CODING-TEST/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Shortest Path
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/chanwookK/CODING-TEST/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+<!---LeetCode Topics End-->
