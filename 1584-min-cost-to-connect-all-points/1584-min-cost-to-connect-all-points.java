@@ -1,9 +1,9 @@
 class Solution {
 
-    Point[] parent;
+    int[] parent;
 
     public int minCostConnectPoints(int[][] points) {
-        parent = new Point[points.length];
+        parent = new int[points.length];
         PriorityQueue<Edge> pq = new PriorityQueue<>((a, b) -> Integer.compare(a.dist, b.dist));
         for (int i = 0; i < points.length; i++) {
             Point from = new Point(points[i][0], points[i][1], i);
@@ -11,31 +11,34 @@ class Solution {
                 Point to = new Point(points[j][0], points[j][1], j);
                 pq.offer(new Edge(from, to, distance(from, to)));
             }
-            parent[i] = from;
+            parent[i] = i;
         }
 
+        int selectedEdgeNum = 0;
         int answer = 0;
         while (!pq.isEmpty()) {
             Edge cur = pq.poll();
-            if (union(cur.from, cur.to)) {
+            if (union(cur.from.num, cur.to.num)) {
                 answer += cur.dist;
+                selectedEdgeNum++;
             }
+            if(selectedEdgeNum == points.length - 1) return answer;
         }
 
         return answer;
     }
 
-    public Point findParent(Point p) {
-        if (p.num == parent[p.num].num) return parent[p.num];
-        return findParent(parent[p.num]);
+    public int findParent(int pNum) {
+        if (pNum == parent[pNum]) return parent[pNum];
+        return findParent(parent[pNum]);
     }
 
-    public boolean union(Point p1, Point p2) {
-        Point parentP1 = findParent(p1);
-        Point parentP2 = findParent(p2);
-        if (parentP1.num == parentP2.num) return false;
-        if (parentP1.num < parentP2.num) parent[parentP2.num] = parentP1;
-        else parent[parentP1.num] = parentP2;
+    public boolean union(int p1, int p2) {
+        int parentP1 = findParent(p1);
+        int parentP2 = findParent(p2);
+        if (parentP1 == parentP2) return false;
+        if (parentP1 < parentP2) parent[parentP2] = parentP1;
+        else parent[parentP1] = parentP2;
         return true;
     }
 
