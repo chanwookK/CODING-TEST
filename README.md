@@ -45,6 +45,7 @@ CODING-TEST-KCW-JAVA/
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/chanwookK/CODING-TEST/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/chanwookK/CODING-TEST/tree/master/1462-course-schedule-iv) |
+| [1584-min-cost-to-connect-all-points](https://github.com/chanwookK/CODING-TEST/tree/master/1584-min-cost-to-connect-all-points) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/chanwookK/CODING-TEST/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
@@ -55,6 +56,7 @@ CODING-TEST-KCW-JAVA/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chanwookK/CODING-TEST/tree/master/0001-two-sum) |
+| [1584-min-cost-to-connect-all-points](https://github.com/chanwookK/CODING-TEST/tree/master/1584-min-cost-to-connect-all-points) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/chanwookK/CODING-TEST/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
@@ -76,4 +78,12 @@ CODING-TEST-KCW-JAVA/
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/chanwookK/CODING-TEST/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/chanwookK/CODING-TEST/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/chanwookK/CODING-TEST/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
