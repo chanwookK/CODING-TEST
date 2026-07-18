@@ -6,10 +6,8 @@ class Solution {
         parent = new int[points.length];
         PriorityQueue<Edge> pq = new PriorityQueue<>((a, b) -> Integer.compare(a.dist, b.dist));
         for (int i = 0; i < points.length; i++) {
-            Point from = new Point(points[i][0], points[i][1], i);
-            for (int j = 0; j < points.length; j++) {
-                Point to = new Point(points[j][0], points[j][1], j);
-                pq.offer(new Edge(from, to, distance(from, to)));
+            for (int j = i + 1; j < points.length; j++) {
+                pq.offer(new Edge(i, j, distance(points[i], points[j])));
             }
             parent[i] = i;
         }
@@ -18,7 +16,7 @@ class Solution {
         int answer = 0;
         while (!pq.isEmpty()) {
             Edge cur = pq.poll();
-            if (union(cur.from.num, cur.to.num)) {
+            if (union(cur.from, cur.to)) {
                 answer += cur.dist;
                 selectedEdgeNum++;
             }
@@ -42,34 +40,21 @@ class Solution {
         return true;
     }
 
-    public int distance(Point a, Point b) {
-        return Math.abs(a.x - b.x) + Math.abs(a.y - b.y);
+    public int distance(int[] a, int[] b) {
+        return Math.abs(a[0] - b[0]) + Math.abs(a[1] - b[1]);
     }
 
     
 }
 
 class Edge {
-    Point from;
-    Point to;
+    int from;
+    int to;
     int dist;
 
-    public Edge(Point from, Point to, int dist) {
+    public Edge(int from, int to, int dist) {
         this.from = from;
         this.to = to;
         this.dist = dist;
-    }
-}
-
-class Point {
-    int x;
-    int y;
-    int num;
-
-
-    public Point(int x, int y, int num) {
-        this.x = x;
-        this.y = y;
-        this.num = num;
     }
 }
