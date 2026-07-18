@@ -56,6 +56,7 @@ CODING-TEST-KCW-JAVA/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chanwookK/CODING-TEST/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/chanwookK/CODING-TEST/tree/master/0014-longest-common-prefix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/chanwookK/CODING-TEST/tree/master/1584-min-cost-to-connect-all-points) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/chanwookK/CODING-TEST/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Hash Table
@@ -77,6 +78,7 @@ CODING-TEST-KCW-JAVA/
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/chanwookK/CODING-TEST/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/chanwookK/CODING-TEST/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/chanwookK/CODING-TEST/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/chanwookK/CODING-TEST/tree/master/0344-reverse-string) |
@@ -94,4 +96,8 @@ CODING-TEST-KCW-JAVA/
 | ------- |
 | [0125-valid-palindrome](https://github.com/chanwookK/CODING-TEST/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/chanwookK/CODING-TEST/tree/master/0344-reverse-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/chanwookK/CODING-TEST/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
