@@ -60,6 +60,7 @@ CODING-TEST-KCW-JAVA/
 | [0049-group-anagrams](https://github.com/chanwookK/CODING-TEST/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/chanwookK/CODING-TEST/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/chanwookK/CODING-TEST/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/chanwookK/CODING-TEST/tree/master/0380-insert-delete-getrandom-o1) |
 | [0525-contiguous-array](https://github.com/chanwookK/CODING-TEST/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chanwookK/CODING-TEST/tree/master/0560-subarray-sum-equals-k) |
 | [1584-min-cost-to-connect-all-points](https://github.com/chanwookK/CODING-TEST/tree/master/1584-min-cost-to-connect-all-points) |
@@ -72,6 +73,7 @@ CODING-TEST-KCW-JAVA/
 | [0217-contains-duplicate](https://github.com/chanwookK/CODING-TEST/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chanwookK/CODING-TEST/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/chanwookK/CODING-TEST/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/chanwookK/CODING-TEST/tree/master/0380-insert-delete-getrandom-o1) |
 | [0451-sort-characters-by-frequency](https://github.com/chanwookK/CODING-TEST/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/chanwookK/CODING-TEST/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chanwookK/CODING-TEST/tree/master/0560-subarray-sum-equals-k) |
@@ -157,4 +159,16 @@ CODING-TEST-KCW-JAVA/
 | ------- |
 | [0525-contiguous-array](https://github.com/chanwookK/CODING-TEST/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chanwookK/CODING-TEST/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/chanwookK/CODING-TEST/tree/master/0380-insert-delete-getrandom-o1) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/chanwookK/CODING-TEST/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/chanwookK/CODING-TEST/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
