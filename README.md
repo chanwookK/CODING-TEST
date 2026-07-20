@@ -60,6 +60,7 @@ CODING-TEST-KCW-JAVA/
 | [0049-group-anagrams](https://github.com/chanwookK/CODING-TEST/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/chanwookK/CODING-TEST/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/chanwookK/CODING-TEST/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/chanwookK/CODING-TEST/tree/master/0560-subarray-sum-equals-k) |
 | [1584-min-cost-to-connect-all-points](https://github.com/chanwookK/CODING-TEST/tree/master/1584-min-cost-to-connect-all-points) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/chanwookK/CODING-TEST/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Hash Table
@@ -71,6 +72,7 @@ CODING-TEST-KCW-JAVA/
 | [0242-valid-anagram](https://github.com/chanwookK/CODING-TEST/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/chanwookK/CODING-TEST/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/chanwookK/CODING-TEST/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/chanwookK/CODING-TEST/tree/master/0560-subarray-sum-equals-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -148,4 +150,8 @@ CODING-TEST-KCW-JAVA/
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/chanwookK/CODING-TEST/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/chanwookK/CODING-TEST/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
