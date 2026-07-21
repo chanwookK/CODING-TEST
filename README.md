@@ -169,6 +169,7 @@ CODING-TEST-KCW-JAVA/
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/chanwookK/CODING-TEST/tree/master/0380-insert-delete-getrandom-o1) |
+| [0901-online-stock-span](https://github.com/chanwookK/CODING-TEST/tree/master/0901-online-stock-span) |
 ## Randomized
 |  |
 | ------- |
@@ -178,9 +179,15 @@ CODING-TEST-KCW-JAVA/
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/chanwookK/CODING-TEST/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/chanwookK/CODING-TEST/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/chanwookK/CODING-TEST/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/chanwookK/CODING-TEST/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/chanwookK/CODING-TEST/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/chanwookK/CODING-TEST/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/chanwookK/CODING-TEST/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
