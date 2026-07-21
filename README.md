@@ -101,6 +101,7 @@ CODING-TEST-KCW-JAVA/
 | [0125-valid-palindrome](https://github.com/chanwookK/CODING-TEST/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/chanwookK/CODING-TEST/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/chanwookK/CODING-TEST/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/chanwookK/CODING-TEST/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/chanwookK/CODING-TEST/tree/master/0451-sort-characters-by-frequency) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/chanwookK/CODING-TEST/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Union-Find
@@ -177,12 +178,14 @@ CODING-TEST-KCW-JAVA/
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/chanwookK/CODING-TEST/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/chanwookK/CODING-TEST/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/chanwookK/CODING-TEST/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/chanwookK/CODING-TEST/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/chanwookK/CODING-TEST/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/chanwookK/CODING-TEST/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/chanwookK/CODING-TEST/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/chanwookK/CODING-TEST/tree/master/0901-online-stock-span) |
@@ -190,4 +193,8 @@ CODING-TEST-KCW-JAVA/
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/chanwookK/CODING-TEST/tree/master/0901-online-stock-span) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/chanwookK/CODING-TEST/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
