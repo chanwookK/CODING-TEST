@@ -61,6 +61,7 @@ CODING-TEST-KCW-JAVA/
 | [0217-contains-duplicate](https://github.com/chanwookK/CODING-TEST/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/chanwookK/CODING-TEST/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chanwookK/CODING-TEST/tree/master/0380-insert-delete-getrandom-o1) |
+| [0503-next-greater-element-ii](https://github.com/chanwookK/CODING-TEST/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/chanwookK/CODING-TEST/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chanwookK/CODING-TEST/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/chanwookK/CODING-TEST/tree/master/0739-daily-temperatures) |
@@ -175,9 +176,11 @@ CODING-TEST-KCW-JAVA/
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/chanwookK/CODING-TEST/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/chanwookK/CODING-TEST/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/chanwookK/CODING-TEST/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/chanwookK/CODING-TEST/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
