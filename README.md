@@ -60,6 +60,7 @@ CODING-TEST-KCW-JAVA/
 | [0049-group-anagrams](https://github.com/chanwookK/CODING-TEST/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/chanwookK/CODING-TEST/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/chanwookK/CODING-TEST/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/chanwookK/CODING-TEST/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/chanwookK/CODING-TEST/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chanwookK/CODING-TEST/tree/master/0380-insert-delete-getrandom-o1) |
 | [0503-next-greater-element-ii](https://github.com/chanwookK/CODING-TEST/tree/master/0503-next-greater-element-ii) |
@@ -163,6 +164,7 @@ CODING-TEST-KCW-JAVA/
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/chanwookK/CODING-TEST/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/chanwookK/CODING-TEST/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/chanwookK/CODING-TEST/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chanwookK/CODING-TEST/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/chanwookK/CODING-TEST/tree/master/1480-running-sum-of-1d-array) |
@@ -174,6 +176,7 @@ CODING-TEST-KCW-JAVA/
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/chanwookK/CODING-TEST/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/chanwookK/CODING-TEST/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chanwookK/CODING-TEST/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/chanwookK/CODING-TEST/tree/master/0901-online-stock-span) |
 ## Randomized
@@ -202,4 +205,8 @@ CODING-TEST-KCW-JAVA/
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/chanwookK/CODING-TEST/tree/master/0402-remove-k-digits) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/chanwookK/CODING-TEST/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
