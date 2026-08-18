@@ -66,6 +66,7 @@ CODING-TEST-KCW-JAVA/
 | [0503-next-greater-element-ii](https://github.com/chanwookK/CODING-TEST/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/chanwookK/CODING-TEST/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chanwookK/CODING-TEST/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/chanwookK/CODING-TEST/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/chanwookK/CODING-TEST/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/chanwookK/CODING-TEST/tree/master/1480-running-sum-of-1d-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/chanwookK/CODING-TEST/tree/master/1584-min-cost-to-connect-all-points) |
@@ -209,4 +210,8 @@ CODING-TEST-KCW-JAVA/
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/chanwookK/CODING-TEST/tree/master/0304-range-sum-query-2d-immutable) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/chanwookK/CODING-TEST/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
