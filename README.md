@@ -81,6 +81,7 @@ CODING-TEST-KCW-JAVA/
 | [0242-valid-anagram](https://github.com/chanwookK/CODING-TEST/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/chanwookK/CODING-TEST/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chanwookK/CODING-TEST/tree/master/0380-insert-delete-getrandom-o1) |
+| [0424-longest-repeating-character-replacement](https://github.com/chanwookK/CODING-TEST/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/chanwookK/CODING-TEST/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/chanwookK/CODING-TEST/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chanwookK/CODING-TEST/tree/master/0560-subarray-sum-equals-k) |
@@ -108,6 +109,7 @@ CODING-TEST-KCW-JAVA/
 | [0242-valid-anagram](https://github.com/chanwookK/CODING-TEST/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/chanwookK/CODING-TEST/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/chanwookK/CODING-TEST/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/chanwookK/CODING-TEST/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/chanwookK/CODING-TEST/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/chanwookK/CODING-TEST/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chanwookK/CODING-TEST/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -220,6 +222,7 @@ CODING-TEST-KCW-JAVA/
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/chanwookK/CODING-TEST/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/chanwookK/CODING-TEST/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/chanwookK/CODING-TEST/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/chanwookK/CODING-TEST/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chanwookK/CODING-TEST/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
