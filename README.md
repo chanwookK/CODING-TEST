@@ -69,6 +69,7 @@ CODING-TEST-KCW-JAVA/
 | [0525-contiguous-array](https://github.com/chanwookK/CODING-TEST/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chanwookK/CODING-TEST/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/chanwookK/CODING-TEST/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/chanwookK/CODING-TEST/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/chanwookK/CODING-TEST/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/chanwookK/CODING-TEST/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/chanwookK/CODING-TEST/tree/master/1480-running-sum-of-1d-array) |
@@ -91,11 +92,13 @@ CODING-TEST-KCW-JAVA/
 ## Depth-First Search
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/chanwookK/CODING-TEST/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/chanwookK/CODING-TEST/tree/master/0733-flood-fill) |
 | [1462-course-schedule-iv](https://github.com/chanwookK/CODING-TEST/tree/master/1462-course-schedule-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/chanwookK/CODING-TEST/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/chanwookK/CODING-TEST/tree/master/0733-flood-fill) |
 | [1462-course-schedule-iv](https://github.com/chanwookK/CODING-TEST/tree/master/1462-course-schedule-iv) |
 ## Topological Sort
@@ -122,6 +125,7 @@ CODING-TEST-KCW-JAVA/
 ## Union-Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/chanwookK/CODING-TEST/tree/master/0695-max-area-of-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/chanwookK/CODING-TEST/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
@@ -225,6 +229,7 @@ CODING-TEST-KCW-JAVA/
 | ------- |
 | [0054-spiral-matrix](https://github.com/chanwookK/CODING-TEST/tree/master/0054-spiral-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/chanwookK/CODING-TEST/tree/master/0304-range-sum-query-2d-immutable) |
+| [0695-max-area-of-island](https://github.com/chanwookK/CODING-TEST/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/chanwookK/CODING-TEST/tree/master/0733-flood-fill) |
 ## Sliding Window
 |  |
