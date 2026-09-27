@@ -60,6 +60,7 @@ CODING-TEST-KCW-JAVA/
 | [0014-longest-common-prefix](https://github.com/chanwookK/CODING-TEST/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/chanwookK/CODING-TEST/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/chanwookK/CODING-TEST/tree/master/0054-spiral-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/chanwookK/CODING-TEST/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/chanwookK/CODING-TEST/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/chanwookK/CODING-TEST/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/chanwookK/CODING-TEST/tree/master/0303-range-sum-query-immutable) |
@@ -81,6 +82,7 @@ CODING-TEST-KCW-JAVA/
 | ------- |
 | [0001-two-sum](https://github.com/chanwookK/CODING-TEST/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/chanwookK/CODING-TEST/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/chanwookK/CODING-TEST/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/chanwookK/CODING-TEST/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chanwookK/CODING-TEST/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/chanwookK/CODING-TEST/tree/master/0347-top-k-frequent-elements) |
@@ -128,6 +130,7 @@ CODING-TEST-KCW-JAVA/
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/chanwookK/CODING-TEST/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/chanwookK/CODING-TEST/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/chanwookK/CODING-TEST/tree/master/0695-max-area-of-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/chanwookK/CODING-TEST/tree/master/1584-min-cost-to-connect-all-points) |
