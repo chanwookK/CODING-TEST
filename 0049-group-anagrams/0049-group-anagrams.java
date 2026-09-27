@@ -3,13 +3,13 @@ class Solution {
         Map<String, List<String>> map = new HashMap<>();
 
         for (String str : strs) {
-            char[] strArray = str.toCharArray();
-            Arrays.sort(strArray);
-            String sortedStr = new String(strArray);
-            
-            List<String> putStringList = map.getOrDefault(sortedStr, new ArrayList<>());
-            putStringList.add(str);
-            map.put(sortedStr, putStringList);
+            char[] cstr = str.toCharArray();
+            Arrays.sort(cstr);
+            String sortedStr = new String(cstr);
+
+            List<String> value = map.getOrDefault(sortedStr, new ArrayList<>());
+            value.add(str);
+            map.putIfAbsent(sortedStr, value);
         }
 
         return map.values().stream().toList();
