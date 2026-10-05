@@ -60,6 +60,7 @@ CODING-TEST-KCW-JAVA/
 | [0014-longest-common-prefix](https://github.com/chanwookK/CODING-TEST/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/chanwookK/CODING-TEST/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/chanwookK/CODING-TEST/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/chanwookK/CODING-TEST/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/chanwookK/CODING-TEST/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/chanwookK/CODING-TEST/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chanwookK/CODING-TEST/tree/master/0215-kth-largest-element-in-an-array) |
@@ -159,6 +160,7 @@ CODING-TEST-KCW-JAVA/
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/chanwookK/CODING-TEST/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/chanwookK/CODING-TEST/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chanwookK/CODING-TEST/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/chanwookK/CODING-TEST/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chanwookK/CODING-TEST/tree/master/0242-valid-anagram) |
@@ -259,4 +261,8 @@ CODING-TEST-KCW-JAVA/
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/chanwookK/CODING-TEST/tree/master/0054-spiral-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/chanwookK/CODING-TEST/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
