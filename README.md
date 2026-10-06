@@ -81,6 +81,7 @@ CODING-TEST-KCW-JAVA/
 | [0560-subarray-sum-equals-k](https://github.com/chanwookK/CODING-TEST/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/chanwookK/CODING-TEST/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/chanwookK/CODING-TEST/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/chanwookK/CODING-TEST/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/chanwookK/CODING-TEST/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/chanwookK/CODING-TEST/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/chanwookK/CODING-TEST/tree/master/0994-rotting-oranges) |
@@ -282,6 +283,7 @@ CODING-TEST-KCW-JAVA/
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/chanwookK/CODING-TEST/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/chanwookK/CODING-TEST/tree/master/0704-binary-search) |
 ## Simulation
 |  |
 | ------- |
