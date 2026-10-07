@@ -39,6 +39,7 @@ CODING-TEST-KCW-JAVA/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/chanwookK/CODING-TEST/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/chanwookK/CODING-TEST/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/chanwookK/CODING-TEST/tree/master/0322-coin-change) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/chanwookK/CODING-TEST/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -239,6 +240,7 @@ CODING-TEST-KCW-JAVA/
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/chanwookK/CODING-TEST/tree/master/0062-unique-paths) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chanwookK/CODING-TEST/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
@@ -329,4 +331,8 @@ CODING-TEST-KCW-JAVA/
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/chanwookK/CODING-TEST/tree/master/0322-coin-change) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/chanwookK/CODING-TEST/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
